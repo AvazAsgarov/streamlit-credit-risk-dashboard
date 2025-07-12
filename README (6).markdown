@@ -4,17 +4,6 @@ A comprehensive **Credit Risk Dashboard** built with Streamlit, Pandas, NumPy, a
 
 Explore the live dashboard here.
 
-## Table of Contents
-
-- Overview
-- Features
-- Screenshots
-- Installation
-- Usage
-- Dataset
-- Contributing
-- License
-
 ## Overview
 
 The Credit Risk Dashboard is designed to help financial analysts and risk managers explore and analyze credit risk data. It generates a synthetic dataset of customer loan applications and provides interactive visualizations, filters, and data export capabilities. The dashboard is divided into five tabs: Overview, Risk Analysis, Portfolio Statistics, Data Explorer, and Data Summary, each offering unique insights into the credit portfolio.
@@ -61,8 +50,8 @@ To run the dashboard locally, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   https://github.com/AvazAsgarov/streamlit-credit-risk-dashboard
+   cd streamlit-credit-risk-dashboard
    ```
 
 2. **Install Dependencies**: Ensure you have Python 3.8+ installed, then install the required packages:
@@ -74,7 +63,7 @@ To run the dashboard locally, follow these steps:
 3. **Run the Application**: Launch the Streamlit app:
 
    ```bash
-   streamlit run credit_risk_dashboard.py
+   streamlit run credit_risk_streamlit_app.py
    ```
 
    The dashboard will open in your default web browser.
