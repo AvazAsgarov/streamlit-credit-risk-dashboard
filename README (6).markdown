@@ -33,7 +33,6 @@ The Credit Risk Dashboard is designed to help financial analysts and risk manage
 Below are screenshots of the Credit Risk Dashboard:
 
 ### Overview Tab
-<img width="1751" height="747" alt="image" src="https://github.com/user-attachments/assets/212a4e50-ecf2-4818-92df-516a2c807ccd" />
 
 ![Overview Tab](screenshots/overview_tab.png)*Displays KPIs, risk distribution, loan purpose distribution, and monthly trends.*
 
