@@ -92,6 +92,6 @@ The dashboard generates a synthetic dataset with the following features:
 - 
 The dataset is generated using realistic statistical distributions (e.g., normal for age, lognormal for income) and includes a calculated risk score and default probability. Data is clipped to ensure realistic ranges (e.g., age 18–80, credit score 300–850).
 
-## 📧 Contact
+## Contact
 
 For any questions or suggestions, please open an issue in this repository or connect with me on LinkedIn: **[Avaz Asgarov](https://www.linkedin.com/in/avaz-asgarov/)**.
